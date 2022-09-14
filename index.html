@@ -51,6 +51,5 @@ h3{
    
  <p>Chanice geeft deze film 5 sterren</p>
    
-   
 </body>
 </html>
